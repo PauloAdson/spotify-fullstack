@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+
+.header__link h1{
+    font-size: 2.2rem;
+}
+
+.header__link:hover {
+    text-decoration: underline;
+}

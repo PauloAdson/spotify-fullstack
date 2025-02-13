@@ -1,0 +1,17 @@
+.main {
+    flex: 1;
+    background-image: linear-gradient(to bottom, #062d14, transparent);
+    padding: 20px;
+    margin: 0 10px 10px;
+    border-radius: 15px;
+}
+
+.main__texts {
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.main__link:hover {
+    text-decoration: underline;
+}
